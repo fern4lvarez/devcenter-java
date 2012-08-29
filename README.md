@@ -1,4 +1,4 @@
-Quickstart guide will get you going with Java and the [Jetty](http://eclipse.org/jetty/) embedded web server on the [Cedar](http://devcenter.heroku.com/articles/cedar) stack.
+ Quickstart guide will get you going with Java and the [Jetty](http://eclipse.org/jetty/) embedded web server on the [Cedar](http://devcenter.heroku.com/articles/cedar) stack.
 
 {.note}
 Sample code for the [Java demo application](https://github.com/heroku/devcenter-java) is available on GitHub. Edits and enhancements are welcome.
